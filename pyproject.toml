@@ -12,6 +12,7 @@ dependencies = [
     "gradio>=5.30.0",
     "pypdf>=5.5.0",
     "openai-agents>=0.0.15",
+    "ipykernel>=6.29.5",
 ]
 
 [build-system]

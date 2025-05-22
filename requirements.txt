@@ -6,5 +6,7 @@ openai
 openai-agents
 anthropic
 IPython
+ipykernel
+
 
 
